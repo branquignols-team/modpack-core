@@ -16,7 +16,7 @@ Il regroupe exclusivement les mods essentiels au **gameplay** :
 
 1. Télécharger le fichier `brk-core.html` disponible dans ce dépôt.
 2. Ouvrir le **Launcher Arma 3**.
-3. Aller dans l'onglet **Mods** > **+ Preset** > **Importer**.
+3. Aller dans l'onglet **Mods** > **CONFIGURATION** > **Importer**.
 4. Sélectionner le fichier `brk-core.html`.
 5. Le launcher va automatiquement télécharger les mods requis via Steam Workshop.
 
